@@ -1,4 +1,4 @@
-dataSetVersion = "2019-04-11"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2019-07-27"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -33,32 +33,24 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Yugyeom",
-    img: "tYy9XE2.jpg",
+    name: "Sunwoo",
+    img: "H70VmT9.jpg",
     opts: {
       series: [ "IDOL" ],
       stage: []
     }
   },
   {
-    name: "Wendy",
-    img: "UUL7xiJ.jpg",
+    name: "Umji",
+    img: "9ppefeq.jpg",
     opts: {
       series: [ "IDOL" ],
-      stage: []
-    }
-  },
-  {
-    name: "Taemin",
-    img: "mZIG4vv.jpg",
-    opts: {
-      series: ["IDOL"],
       stage: []
     }
   },
   {
     name: "Taehyun",
-    img: "jo6OlAf.jpg",
+    img: "HGoF909.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -66,71 +58,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Soojin",
-    img: "267JKF2.jpg",
-    opts: {
-      series: [ "IDOL" ],
-      stage: []
-    }
-  },
-  {
-    name: "Shinwon",
-    img: "IVfsT4q.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Johnny",
-    img: "gxQUO8g.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Mingi",
-    img: "3uoc2Ri.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Jinjin",
-    img: "dxlaT67.jpg",
-    opts: {
-      series: [ "IDOL" ],
-      stage: []
-    }
-  },
-  {
-    name: "Jhope",
-    img: "Abt3Jhy.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Peniel",
-    img: "wo4gg6H.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Scoups",
-    img: "Iz9ILJg.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Mark Tuan",
-    img: "z911CZ9.jpg",
+    img: "NQztQv8.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -138,7 +66,47 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mark Lee",
-    img: "gWvxBdq.png",
+    img: "DkdXEIW.png",
+    opts: {
+      series: [ "IDOL" ],
+      stage: []
+    }
+  },
+  {
+    name: "IN",
+    img: "8k4UIvk.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Jooheon",
+    img: "x7T058n.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Shinwon",
+    img: "NOOklBp.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Jhope",
+    img: "Ly6FU9r.jpg",
+    opts: {
+      series: [ "IDOL" ],
+      stage: []
+    }
+  },
+  {
+    name: "Dean",
+    img: "1Sc8MoT.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -146,103 +114,39 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hueningkai",
-    img: "FOLrpDf.jpg",
+    img: "sTHijDR.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Dongwoo",
-    img: "St3SEbu.jpg",
+    name: "Jae",
+    img: "YgdZUin.png",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Feeldog",
-    img: "uVl0DQ4.jpg",
+    name: "Wendy",
+    img: "MYFa3eu.png",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Daesung",
-    img: "IFlJwiR.jpg",
+    name: "Zico",
+    img: "uBZTEhj.png",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Bobby",
-    img: "ezbD3T4.jpg",
-    opts: {
-      series: [ "IDOL" ],
-      stage: []
-    }
-  },
-  {
-    name: "Chaeryeong",
-    img: "oShAP7F.jpg",
-    opts: {
-      series: [ "IDOL" ],
-      stage: []
-    }
-  },
-  {
-    name: "Ziu",
-    img: "i9zY3d5.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Bang Chan",
-    img: "IDESW2Q.jpg",
-    opts: {
-      series: [ "IDOL" ],
-      stage: []
-    }
-  },
-  {
-    name: "Yoseob",
-    img: "zgJtYQB.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Jimin",
-    img: "RRZ0dSx.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Dean",
-    img: "RVkEOti.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Vernon",
-    img: "o2RQspn.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Jooe",
-    img: "QDVWBKQ.jpg",
+    name: "Jinwoo",
+    img: "rJDOvhX.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -250,31 +154,63 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Haebin",
-    img: "M3S19CM.jpg",
+    img: "3Vwn8eX.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Leo",
-    img: "KtSZne9.jpg",
+    name: "Scoups",
+    img: "dIxGl1e.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Siwon Choi",
-    img: "pqT81qz.jpg",
+    name: "Park Bom",
+    img: "6wa1LDl.png",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Kenta",
-    img: "jLv0Qof.jpg",
+    name: "Woojin",
+    img: "K9896Gy.jpg",
+    opts: {
+      series: [ "IDOL" ],
+      stage: []
+    }
+  },
+  {
+    name: "Yeosang",
+    img: "aX94J3n.jpg",
+    opts: {
+      series: [ "IDOL" ],
+      stage: []
+    }
+  },
+  {
+    name: "Yugyeom",
+    img: "1cNHb5w.png",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Moonbyul",
+    img: "1d4HaYd.jpg",
+    opts: {
+      series: [ "IDOL" ],
+      stage: []
+    }
+  },
+  {
+    name: "Vernon",
+    img: "hqcjDJk.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -282,55 +218,23 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Seonghwa",
-    img: "J12QdYl.jpg",
-    opts: {
-      series: [ "IDOL" ],
-      stage: []
-    }
-  },
-  {
-    name: "Heechul",
-    img: "TkZtF94.jpg",
+    img: "c4mRYNA.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Jseph",
-    img: "0CQ2boW.jpg",
+    name: "Jooe",
+    img: "f6d0Uo1.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
     }
   },
   {
-    name: "Ilhoon",
-    img: "zl7knnI.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Hwasa",
-    img: "OGp9HQY.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "Jihyo",
-    img: "iwLMnSm.jpg",
-    opts: {
-      series: ["IDOL"],
-      stage: []
-    }
-  },
-  {
-    name: "BM",
-    img: "BE35pHy.jpg",
+    name: "Dongwoo",
+    img: "ExHX3KK.png",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -338,7 +242,159 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Chen",
-    img: "JTEsaC8.jpg",
+    img: "imAG8Ey.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Chaeryeong",
+    img: "9Btm8Pj.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "BM",
+    img: "pwndd6J.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "PO",
+    img: "zuvwB7T.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Ziu",
+    img: "fOI420v.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Bang Chan",
+    img: "pdxPgmo.png",
+    opts: {
+      series: [ "IDOL" ],
+      stage: []
+    }
+  },
+  {
+    name: "Jinjin",
+    img: "uHv3K4h.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Yoseob",
+    img: "pE27xuB.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Jimin",
+    img: "JkygrdR.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Hwasa",
+    img: "zlhtntO.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Siwon Choi",
+    img: "UlbBsMy.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Mark Tuan",
+    img: "Dc1XLqt.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Hyolyn",
+    img: "66W7hDM.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+    {
+    name: "Johnny",
+    img: "oXTm4y3.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Ilhoon",
+    img: "Ue7AQem.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Hendery",
+    img: "mxIVvXi.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Mingi",
+    img: "vEZo0rB.jpg",
+    opts: {
+      series: [ "IDOL" ],
+      stage: []
+    }
+  },
+  {
+    name: "Bobby",
+    img: "bbVfYOd.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Leo",
+    img: "czmFyFj.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+   {
+    name: "Heechul",
+    img: "isRdhKh.png",
     opts: {
       series: ["IDOL"],
       stage: []
@@ -346,7 +402,23 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amber",
-    img: "xsThjEf.jpg",
+    img: "9VVfZGf.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Daesung",
+    img: "fQ22Y1s.jpg",
+    opts: {
+      series: ["IDOL"],
+      stage: []
+    }
+  },
+  {
+    name: "Peniel",
+    img: "vOr6VOm.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
